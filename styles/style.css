@@ -1,3 +1,23 @@
 * {
-    background-color: yellowgreen;
-}
+     margin: 0; 
+     padding: 0; 
+    }
+
+    #map {
+         position: absolute; 
+         top: 34%; 
+         left:24%;
+         bottom: 10%; 
+         width: 50%;
+         }
+
+         h1 {
+            font-family: monospace;
+           text-align: center left;
+           padding: 5% 20% 1% 20%;
+         }
+         p {
+            font-family: sans-serif;
+            text-align: center left;
+            padding: 0 20% 2% 20%;
+         }
